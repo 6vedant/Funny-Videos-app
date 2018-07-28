@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Funny Vids</string>
+
+    <string name="tab1">Popular</string>
+    <string name="tab2">Category</string>
+    <string name="tab3">Favourites</string>
+    <string name="tab4">Tab4</string>
+    <string name="banner_ad_unit_id">ca-app-pub-2011247137347052/4474044515</string>
+
+
+</resources>

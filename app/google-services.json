@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "296037558261",
+    "firebase_url": "https://funny-fc11c.firebaseio.com",
+    "project_id": "funny-fc11c",
+    "storage_bucket": "funny-fc11c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:296037558261:android:e860b63d606806a3",
+        "android_client_info": {
+          "package_name": "com.apps4humanity.funny"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "296037558261-09pmm9pnerk7ed2n86vrmrfjjdls23ve.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.apps4humanity.funny",
+            "certificate_hash": "f5ef2901a398aec93c23f6f86bd73ae4c70e48a3"
+          }
+        },
+        {
+          "client_id": "296037558261-ek1ik3brr8f6pugd7tr1bi2i152rcg13.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCo_H7gfNTnPdbJH_9XAl0Wmv8YvP_CR6M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "296037558261-ek1ik3brr8f6pugd7tr1bi2i152rcg13.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
